@@ -24,14 +24,22 @@ LGBTにまつわるアクションをするとき、
 ちなみに、ミクシィグループでは、
 LGBT-ALLYステッカーや自社ノベルティー・LINEスタンプ(予定)として活用しています。
 
-## Author
-
-にじはちは[株式会社ミクシィ](https://mixi.co.jp)が企画作成しました。
-
 ## License
 
-にじはちのファイル群は[クリエイティブ・コモンズ・ライセンス(表示4.0国際)](https://creativecommons.org/licenses/by/4.0/deed.ja)で提供します。
+にじはちのファイル群は[クリエイティブ・コモンズ・ライセンス(表示4.0国際)](https://creativecommons.org/licenses/by/4.0/deed.ja)で提供しています。
 
 These niji8 materials are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
 [![CC-BY](https://licensebuttons.net/l/by/4.0/88x31.png "CC-BY")](https://creativecommons.org/licenses/by/4.0/legalcode)
+
+## Author
+
+にじはちは[株式会社ミクシィ](https://mixi.co.jp)が企画作成しました。
+
+にじはちは、自由に編集・改変・商用利用して構いません、ただし作者のことを記しておいてくださいね、というライセンスで提供しています。
+(詳しくは上記[クリエイティブ・コモンズ・ライセンス(表示4.0国際)](https://creativecommons.org/licenses/by/4.0/deed.ja)をご覧ください)
+
+ですので、にじはちを使ったデザイン・サイト・配布物には、にじはちの近くに、こんなふうに添えておいてください。
+
+  - テキストで書く場合には「CC-BY 4.0 mixi, Inc.」
+  - グラフィカルに表現したい場合には、たとえば![](cc-by-mixi.png)
